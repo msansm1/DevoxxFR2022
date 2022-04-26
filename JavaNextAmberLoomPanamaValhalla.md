@@ -1,6 +1,6 @@
 # Java Next ! From Amber to Loom, from Panama to Valhalla
 
-slides.nipafx.dev
+https://slides.nipafx.dev/java-next/index.html#/
 
 
 ## Amber
