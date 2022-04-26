@@ -14,4 +14,4 @@ validation de champs -> affichage message dans le front
 1.0.0 de renarde publiée
 
 
-github -  ForMage - quarkus-renarde-todo
+https://github.com/FroMage/quarkus-renarde-todo
