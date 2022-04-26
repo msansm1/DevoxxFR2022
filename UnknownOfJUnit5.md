@@ -12,4 +12,4 @@ mikemybytes.com
 
 @mikemybytes
 
-bit.ly/junit5-devoxxfr22
+https://github.com/mikemybytes/the-unknowns-of-junit5/blob/main/talk-resources.md
