@@ -17,7 +17,7 @@ peut poser problème pour le futur après java 17 (mis For Removal)
 
 ## Records
 
-github JosePaumard/2022_DevNexus-lab
+https://github.com/JosePaumard/2022_DevNexus-lab
 
 on ne peut pas étendre un record, un record ne peut étendre autre chose, pas de champ d'instance
 
