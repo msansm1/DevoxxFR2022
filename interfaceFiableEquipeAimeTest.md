@@ -52,4 +52,4 @@ que pour les devs à l'aise avec l'environnement technique
 pas avec snapshot :)
 
 
-tiny.cc/devoxxtest
+https://docs.google.com/presentation/d/1ysnu8QNdpg1pc-FqFqOg1oeg6jPsHKXgpe9sFtTMbTU/edit#slide=id.gab0243390c_0_33
