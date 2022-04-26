@@ -1,8 +1,8 @@
 # Java application security the hard way
 
-github javajepdy/javajepdy
+https://github.com/javajepdy/javajepdy
 
-github / spoole167/slyserver
+https://github.com/spoole167/slyserver
 
 
 2024 - application loi US Biden -> responabilité dev?
