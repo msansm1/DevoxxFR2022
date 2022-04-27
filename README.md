@@ -41,4 +41,4 @@ Conférences / hands-on / ... auxquelles j'ai participé avec un bref retour :
 
 Les autres fichiers sont mes notes prises en live, c'est un peu brut et ne pas regarder les typos :)
 
-PS : si des speakers voient ses notes, je n'ai pas mis de commentaires dans l'appli Devoxx, juste une note. Les commentaires ici porésents sont à froid, après avoir pris le temps de la réflexion sur les confs que j'ai vu. Si vous voulez plus de détails sur des remarques, vous opuvez m'envoyer un message :)
+PS : si des speakers voient ses notes, je n'ai pas mis de commentaires dans l'appli Devoxx, juste une note. Les commentaires ici présents sont à froid, après avoir pris le temps de la réflexion sur les confs que j'ai vu. Si vous voulez plus de détails sur des remarques, vous pouvez m'envoyer un message :)
