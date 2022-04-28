@@ -5,10 +5,9 @@ https://slides.nipafx.dev/java-next/index.html#/
 
 ## Amber
 
-string templating - 
-draft
+string templating - draft
 
-template with embedded experssions
+template with embedded expressions
 
 Template Policy STR + text bloc
 

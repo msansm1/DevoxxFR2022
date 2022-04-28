@@ -5,8 +5,6 @@ https://github.com/javajepdy/javajepdy
 https://github.com/spoole167/slyserver
 
 
-2024 - application loi US Biden -> responabilité dev?
-
 software bill of materials => cyclonedx.org ; spdx.dev
 
 3 major principles 

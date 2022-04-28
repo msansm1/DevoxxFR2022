@@ -8,7 +8,7 @@ inside.java
 ## Stop doing that !
 
 peut poser problème pour le futur après java 17 (mis For Removal)
-* ne plus appeler : new Integer ().. => pour tous les types Integer, Float, Double, .... quand Vlahallala arrivera
+* ne plus appeler : new Integer ().. => pour tous les types Integer, Float, Double, .... quand Valhalla arrivera
   * faire Integer.valueOf()
 * finalize() : appelée depuis le thread du GC, mène à des race conditions, ou a des connexions qui reste ouvertes car le finalize n'est pas appelé dans un temps court
   * à supprimer
@@ -36,7 +36,7 @@ réécrire un constructeur => copier une liste par exemple (copie défensive - a
 
 pour de la validation, on peut utiliser un constructeur compact
 
-la désérialisation d'un objet ne fait pas appel au construteur d'un objet
+la désérialisation d'un objet ne fait pas appel au constructeur d'un objet
 
 
 ## Pattern matching
@@ -84,7 +84,7 @@ switch (shape) {
 ```
 sealed interface Shape permits Square, Circle {}
 ```
-Seules Squares et Circle peuvent implémenter Shape.
+Seules Square et Circle peuvent implémenter Shape.
 
 ==> switch précédent : le default n'est plus nécessaire
 
@@ -109,6 +109,6 @@ if (s instanceof String.format("test phrase %s and %d", String s, int d)) {
 }
 ```
 
-il y aura normalement une syntaxe pouor créer des déconstructeurs dans les POJOs
+il y aura normalement une syntaxe pour créer des déconstructeurs dans les POJOs
 
 

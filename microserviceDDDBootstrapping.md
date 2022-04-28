@@ -1,4 +1,4 @@
-## Microservices, DDD et bootstrapping pour un microservices
+## Microservices, DDD et bootstrapping pour un microservice
 
 structures des microservices :
 
@@ -6,9 +6,9 @@ application -> domaine (entités + aggrégats) -> infrastructure
 
 couche transverse DTO : application & domaine
 
-## Création d'un nouveau µservice
+## Création d'un nouveau microservice
 
-projet µservice -> un domaine
+projet microservice -> un domaine
 
 hérite d'un framework maison (quelques trucs de base, config, ...)
 
@@ -21,7 +21,7 @@ Telosys :
 
 pour le templating -> s'appuie sur apache velocity
 
-bundle de templates -> un bundle ~ une couche fontionnelle / technique
+bundle de templates -> un bundle ~ une couche fonctionnelle / technique
 
 tout en fichiers textes
 

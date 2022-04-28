@@ -4,7 +4,7 @@ Qute bien amélioré sur les derniers mois
 
 Classe de base Controller
 
-@Transactional par défault sur PUT/POST/DELETE
+@Transactional par défaut sur PUT/POST/DELETE
 
 totalement stateless
 

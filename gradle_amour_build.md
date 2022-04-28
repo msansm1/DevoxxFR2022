@@ -15,7 +15,7 @@ analyse gratuite de build gradle publiée en ligne
 
 wrapper : bootstrap -> gradle-initializr.cleverapps.io
 
-gradle 7.5 -> réordonnemenet taches JAR et tests : le JAR sera fait avant les tests
+gradle 7.5 -> changement ordre taches JAR et tests : le JAR sera fait avant les tests
 
 
 ## Fonctionnalités JVM
@@ -82,7 +82,7 @@ java {
 
 tasks..... {
     javaLauncher.set(javaToolchains.launcherFor {
-        languageVersion.set(JavaLanaguageVersion.of(11))
+        languageVersion.set(JavaLanguageVersion.of(11))
     })  ==> spécifique
 }
 ```
@@ -141,7 +141,7 @@ testing {
 ```
 
 dans le futur 
-* permettre l'exécution sur différentes vserions de Java
+* permettre l'exécution sur différentes versions de Java
 * intégration avec couverture de code
 
 
@@ -170,7 +170,7 @@ gradle 7.4 -> aggregation de résultats jacoco ou tests
 
 ### Publication
 
-puglin maven-publisher
+plugin maven-publisher
 ```
 val javaComp = components["java"] as AdhocComponentsWithVariants
 javacomp.withVariantsFromConfiguration(configurations.testFixturesImApiElements.get()) {
@@ -202,13 +202,11 @@ pour maven central, plugin io.github.....
 
 ## Logique de build
 
-
-
 ## Structure de build
 
 ## Performance
 
-gradle-rpofiler -> installable avce sdkman
+gradle-profiler -> installable avec sdkman
 
 mesure le build
 

@@ -36,12 +36,11 @@ avec le legacy -> on teste uniquement la nouvelle fonctionnalité, bien se limit
 
 snapshotDiff
 
-
-github - johnmeunier - talk-test
+https://github.com/johnmeunier/talk-test
 
 librairies
 - msw -> service worker de mock d'API pour tests front
-- testing ilbrary
+- testing library
 - specflow
 
 
